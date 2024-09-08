@@ -4,7 +4,7 @@
   "description": "A KakaoTalk bot for managing user roles, warnings, and bans.",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "vercel dev"
   },
   "dependencies": {
     "axios": "^0.21.1",
