@@ -1,0 +1,7 @@
+{
+  "ban_message": "User {user} has been banned.",
+  "warn_message": "User {user} has been warned. Total warnings: {warnings}.",
+  "unban_message": "User {user} has been unbanned.",
+  "unknown_command": "Unknown command.",
+  "language_set": "Language has been set to English."
+}

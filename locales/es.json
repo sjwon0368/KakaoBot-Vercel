@@ -1,0 +1,7 @@
+{
+  "ban_message": "El usuario {user} ha sido prohibido.",
+  "warn_message": "El usuario {user} ha sido advertido. Advertencias totales: {warnings}.",
+  "unban_message": "El usuario {user} ha sido desbaneado.",
+  "unknown_command": "Comando desconocido.",
+  "language_set": "El idioma se ha establecido en español."
+}

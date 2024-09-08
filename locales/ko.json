@@ -1,0 +1,7 @@
+{
+  "ban_message": "사용자 {user}을(를) 성공적으로 차단했습니다.",
+  "warn_message": "{user}에게 경고를 주었습니다. 종합 경고 수: {warnings}.",
+  "unban_message": "사용자 {user}을(를) 성공적으로 차단 해제하였습니다.",
+  "unknown_command": "인식 불가능한 명령어입니다.",
+  "language_set": "언어를 한국어로 성공적으로 변경했습니다."
+}
